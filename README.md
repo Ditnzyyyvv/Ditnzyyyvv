@@ -18,12 +18,12 @@
 
 ### Tentang Saya
 
-Halo, saya **Aditya Anugrah** (`@Ditnzyyyvv`), seorang pelajar di **[SMKS Informatika Sumedang](https://smkifsu.sch.id/)** yang memiliki ketertarikan besar pada pengembangan web dan pembuatan game. Bagi saya, menulis kode bukan sekadar membuat program berjalan, tetapi merancang sesuatu yang jujur, nyaman digunakan, dan bermakna bagi orang lain.
+Halo, saya **Aditya Anugrah** (`@Ditnzyyyvv`), seorang pelajar di **[SMKS Informatika Sumedang](https://smkifsu.sch.id/)** yang memiliki ketertarikan besar pada pengembangan web dan pembuatan game. Saya juga sedang belajar memanfaatkan AI sebagai asisten coding untuk membantu proses belajar dan mengerjakan proyek.
 
-- **Fokus Utama:** Pengembangan aplikasi web menggunakan **Laravel, PHP, TypeScript, dan JavaScript**.
-- **Eksplorasi & Minat:** Pengembangan game indie dengan **Godot Engine** serta aplikasi mobile menggunakan **Dart & Flutter**.
-- **Sedang Ditekuni:** Penerapan *clean code*, desain UI/UX modern, dan perancangan arsitektur aplikasi yang rapi.
-- **Pengembangan Diri:** Aktif mengasah kemampuan *Public Speaking* serta komunikasi dalam kerja tim.
+- **Fokus Utama:** Pengembangan aplikasi web dengan **Laravel, PHP, TypeScript, dan JavaScript**.
+- **Eksplorasi & Minat:** Pengembangan game indie menggunakan **Godot Engine** serta aplikasi mobile dengan **Dart & Flutter**.
+- **Eksplorasi AI *(Masih Belajar)*:** Membiasakan diri memakai AI coding assistant untuk belajar konsep baru, mencari solusi *bug*, dan menyusun dokumentasi proyek.
+- **Pengembangan Diri:** Terus mengasah *clean code*, desain UI/UX modern, serta keterampilan *Public Speaking* dan komunikasi tim.
 
 ---
 
@@ -32,7 +32,7 @@ Halo, saya **Aditya Anugrah** (`@Ditnzyyyvv`), seorang pelajar di **[SMKS Inform
 > #### [SiLab](https://github.com/Ditnzyyyvv/SiLab)
 > Website layanan pencatatan, pengelolaan, dan pemeliharaan aset di Laboratorium Sekolah agar proses inventarisasi lebih tertata, transparan, dan mudah dipantau.
 >
-> <img src="https://img.shields.io/badge/Laravel-CBEFF5?style=flat-square&logo=laravel&logoColor=3B5360" alt="Laravel" /> <img src="https://img.shields.io/badge/Blade-F7D6E0?style=flat-square&logo=laravel&logoColor=5C3D2E" alt="Blade" /> <img src="https://img.shields.io/badge/PHP-F2E8DC?style=flat-square&logo=php&logoColor=5C3D2E" alt="PHP" />
+> <img src="https://img.shields.io/badge/Laravel-D96B78?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Blade-5E97B0?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 
 <sub>Lihat proyek dan eksperimen lainnya di <a href="https://github.com/Ditnzyyyvv?tab=repositories">daftar repositori GitHub →</a></sub>
 
@@ -40,33 +40,39 @@ Halo, saya **Aditya Anugrah** (`@Ditnzyyyvv`), seorang pelajar di **[SMKS Inform
 
 ### Keahlian & Teknologi
 
-**Pengembangan Web**
-
+#### Pengembangan Web
 <p>
-  <img src="https://img.shields.io/badge/HTML5-CBEFF5?style=flat-square&logo=html5&logoColor=3B5360" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-CBEFF5?style=flat-square&logo=css3&logoColor=3B5360" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-CBEFF5?style=flat-square&logo=javascript&logoColor=3B5360" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-CBEFF5?style=flat-square&logo=typescript&logoColor=3B5360" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-CBEFF5?style=flat-square&logo=php&logoColor=3B5360" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-CBEFF5?style=flat-square&logo=laravel&logoColor=3B5360" alt="Laravel" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel&theme=light" alt="HTML, CSS, JavaScript, TypeScript, PHP, Laravel" />
+  </a>
 </p>
 
-**Game & Aplikasi Mobile**
-
+#### Game & Aplikasi Mobile
 <p>
-  <img src="https://img.shields.io/badge/Godot_Engine-F7D6E0?style=flat-square&logo=godotengine&logoColor=5C3D2E" alt="Godot Engine" />
-  <img src="https://img.shields.io/badge/Dart-F7D6E0?style=flat-square&logo=dart&logoColor=5C3D2E" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-F7D6E0?style=flat-square&logo=flutter&logoColor=5C3D2E" alt="Flutter" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,dart,flutter,py&theme=light" alt="Godot, Dart, Flutter, Python" />
+  </a>
 </p>
 
-**Desain & Alur Kerja**
-
+#### Desain & Alur Kerja
 <p>
-  <img src="https://img.shields.io/badge/Figma-F2E8DC?style=flat-square&logo=figma&logoColor=5C3D2E" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F2E8DC?style=flat-square&logo=git&logoColor=5C3D2E" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-F2E8DC?style=flat-square&logo=github&logoColor=5C3D2E" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-F2E8DC?style=flat-square&logo=visualstudiocode&logoColor=5C3D2E" alt="VS Code" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=light" alt="Figma, Git, GitHub, VS Code" />
+  </a>
 </p>
+
+#### AI & Coding Assistant *(Masih Belajar)*
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-6C8EBF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Prompting-D4829C?style=for-the-badge&logo=openai&logoColor=white" alt="Prompting" />
+  <img src="https://img.shields.io/badge/AI_Assisted_Coding-5E97B0?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI Assisted Coding" />
+</p>
+
+> *Catatan: Bagian ini masih dalam tahap belajar dan eksplorasi bertahap.*
+
+- **Teman Belajar & Debugging:** Menggunakan AI untuk memahami konsep baru, mencari penyebab *error*, dan membantu merapikan struktur kode.
+- **Latihan Memberi Arahan (Prompting):** Belajar menjelaskan kebutuhan, memilih arah desain, dan memberi revisi agar hasil dari AI lebih tepat guna.
+- **Bantuan Dokumentasi & Ide Awal:** Memanfaatkan AI untuk membantu menyusun dokumentasi proyek seperti *README* dan mencoba ide awal lebih cepat.
 
 ---
 
@@ -74,19 +80,19 @@ Halo, saya **Aditya Anugrah** (`@Ditnzyyyvv`), seorang pelajar di **[SMKS Inform
 
 <p>
   <a href="https://github.com/Ditnzyyyvv" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-5C3D2E?style=flat-square&logo=github&logoColor=FFFDF9" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-3B3A40?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/ditnzyyvv/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-F7D6E0?style=flat-square&logo=instagram&logoColor=5C3D2E" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-D96B8A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.tiktok.com/@xenoid812" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-CBEFF5?style=flat-square&logo=tiktok&logoColor=3B5360" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-4A7C93?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://x.com/Mustyx029" target="_blank">
-    <img src="https://img.shields.io/badge/X-F2E8DC?style=flat-square&logo=x&logoColor=5C3D2E" alt="X" />
+    <img src="https://img.shields.io/badge/X-5C4B42?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:adityaanugrah6767@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F7D6E0?style=flat-square&logo=gmail&logoColor=5C3D2E" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-C9645B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
